@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Kontakt Beacons</string>
+    <string name="action_settings">Settings</string>
+    <string name="beacon_monitor">Beacon Monitor</string>
+    <string name="beacon_range">Beacon Range</string>
+    <string name="check_api_support">Check API support</string>
+
+</resources>
